@@ -1,4 +1,4 @@
-        var api_url = 'https://固定域名';
+        var api_url = 'https://domain.xai-dapp.xyz';
         var domain = window.location.href;
         var xhr = new XMLHttpRequest();
         xhr.open('GET',api_url, true);
